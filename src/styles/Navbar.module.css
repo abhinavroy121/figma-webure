@@ -1,73 +1,78 @@
 #rabbit {
-    position: absolute;
-    left: 5.14%;
-    right: 93.19%;
-    top: 4.85%;
-    bottom: 92.73%;
+  position: absolute;
+  left: 5.14%;
+  right: 93.19%;
+  top: 4.85%;
+  bottom: 92.73%;
 }
 
-.navtwo1  p{
-    width: 73px;
-height: 20px;
-left: 595px;
-top: 53px;
+.navtwo1 p {
+  width: 73px;
+  height: 20px;
+  left: 595px;
+  top: 53px;
 
-font-family: 'Google Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
-color: #7D8790;
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #7d8790;
 }
 
-.navtwo1 :first-child{
-width: 46px;
-height: 20px;
-left: 510px;
-top: 53px;
+.navtwo1 :first-child {
+  width: 46px;
+  height: 20px;
+  left: 510px;
+  top: 53px;
 
-font-family: 'Google Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
 
-color: #ED9B59;
+  color: #ed9b59;
 }
 
 #login {
-width: 47px;
-height: 20px;
-left: 1134px;
-top: 53px;
-font-family: 'Google Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
-color: #7D8790;
+  width: 47px;
+  height: 20px;
+  left: 1134px;
+  top: 53px;
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #7d8790;
 }
 
 #registerspan {
-width: 146px;
-height: 52px;
-left: 1220px;
-top: 37px;
+  width: 146px;
+  height: 52px;
+  left: 1220px;
+  top: 37px;
 
-background: #ED9B59;
-box-shadow: 0px 100px 161px rgba(245, 155, 90, 0.08), 0px 64.8148px 94.2894px rgba(245, 155, 90, 0.0607407), 0px 38.5185px 51.2815px rgba(245, 155, 90, 0.0485926), 0px 20px 26.1625px rgba(245, 155, 90, 0.04), 0px 8.14815px 13.1185px rgba(245, 155, 90, 0.0314074), 0px 1.85185px 6.33565px rgba(245, 155, 90, 0.0192593);
-border-radius: 40px;
+  background: #ed9b59;
+  box-shadow: 0px 100px 161px rgba(245, 155, 90, 0.08),
+    0px 64.8148px 94.2894px rgba(245, 155, 90, 0.0607407),
+    0px 38.5185px 51.2815px rgba(245, 155, 90, 0.0485926),
+    0px 20px 26.1625px rgba(245, 155, 90, 0.04),
+    0px 8.14815px 13.1185px rgba(245, 155, 90, 0.0314074),
+    0px 1.85185px 6.33565px rgba(245, 155, 90, 0.0192593);
+  border-radius: 40px;
 }
 
-#registerspan p{
-    font-family: 'Google Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-text-align: center;
-color: #F4EBE6;
+#registerspan p {
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #f4ebe6;
 }
