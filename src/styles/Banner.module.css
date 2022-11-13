@@ -228,6 +228,20 @@ p span {
   bottom: 36.26%;
 }
 
+
+.rotate {
+  animation: rotation 2s infinite linear;
+  /* animation-fill-mode: forwards; */
+}
+@keyframes rotation {
+  from{
+    transform:rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
 #malespan {
   position: absolute;
   width: 66px;

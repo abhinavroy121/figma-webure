@@ -171,11 +171,11 @@ const Banner = () => {
 
         <Posters className={styles.posters}>
            <img id={styles.mainimage} src={image} alt="" />
-            <Ring> <img src={ring} alt="" /></Ring>
-            <Like id={styles.likeicon}> <img src={like} alt="" /> </Like>
-            <Wine id={styles.wine}> <img src={wine} alt="" /> </Wine>
-            <Heart id={styles.heart}> <img src={heart} alt="" /> </Heart>
-            <Calender id={styles.calender}> <img src={calender} /></Calender>
+            <Ring className={styles.rotate}> <img src={ring} alt="" /></Ring>
+            <Like className={styles.rotate} id={styles.likeicon}> <img src={like} alt="" /> </Like>
+            <Wine className={styles.rotate} id={styles.wine}> <img src={wine} alt="" /> </Wine>
+            <Heart className={styles.rotate} id={styles.heart}> <img src={heart} alt="" /> </Heart>
+            <Calender className={styles.rotate} id={styles.calender}> <img src={calender} /></Calender>
             <Male><span id={styles.malespan}> <img src={Icon_male} alt="" /> <p>Male</p></span></Male>
             <Years> <span id={styles.years}> <img src={plus} alt="" /> <img src={innerplus} alt="" /> <p>30-35 Years</p></span></Years>
             <Newyork> <span id={styles.newyork}> <img src={map} alt="" /> <p>New York</p></span></Newyork>

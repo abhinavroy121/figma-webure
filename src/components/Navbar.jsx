@@ -25,10 +25,13 @@ const Navone = styled.div`
   justify-content: space-around;
   width: 122px;
   height: 26px;
-  left: 74px;
+  left: 130px;
   top: 48px;
   // border: 1px solid grey;
   @media screen and (min-width: 768px)  and (max-width: 992px) {
+   margin-left: 200px;
+  }
+  @media screen and  (max-width: 767px) {
    margin-left: 200px;
   }
 `;
